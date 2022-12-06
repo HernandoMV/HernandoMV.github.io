@@ -32,6 +32,7 @@ Professional experience
     * Secured personal funding (>70K GBP) by achieving a highly competitive grant.
     * Led the implementation of several policies at the institutional level.
 
+
 * **Postdoctoral and Graduate Researcher**, European Molecular Biology Laboratory, 2012 - 2017
     * Led research on the evolution of the nervous system using molecular and imaging techniques, resulting in seven scientific articles in high-impact journals.
     * Designed and implemented a high-throughput transcriptomics method, and developed the current state-of-the-art software to automatically analyze the data to generate spatial transcriptome atlases using image analysis in ImageJ and R.
@@ -40,6 +41,7 @@ Professional experience
     * Collaborated in a project to spatially map single-cell sequencing data.
     * Performed multiple experiments involving plasmid design and cloning, Crispr-Cas9 gene editing, sequencing and phylogenetics, DNA and RNA purification, blotting, cell culture, microinjection, histology, and confocal and electron microscopy.
     * Teached four introductory courses on image analysis.
+
 
 * **Additional experience**, KCL, SFSU, 2009 - 2012
     * Led research in muscle development using gene expression interference.
@@ -90,18 +92,18 @@ Relevant presentations
 
 Teaching
 ======
-Teacher in the Behavioural Module at the SWC PhD course, 2018 - 2021
-Teacher in the Developmental Biology Module at the EMBL PhD course, 2013 - 2016
-Teacher in the MAMED course for marine biology, 2015
+* Teacher in the Behavioural Module at the SWC PhD course, 2018 - 2021
+* Teacher in the Developmental Biology Module at the EMBL PhD course, 2013 - 2016
+* Teacher in the MAMED course for marine biology, 2015
 
 Supervision
 ======
-Co-supervisor of Quentin Pajot-Moric, rotation PhD student in Stephenson-Jones lab, 2021
-Co-supervisor of Matthew Wisdom, research assistant in Stephenson-Jones lab, 2020
-Co-supervisor of Yasmin Meyer, research assistant in Stephenson-Jones lab, 2020
-Co-supervisor of Laura Schwarz, research assistant in Stephenson-Jones lab, 2019 - 2020
-Co-supervisor of Ryan Prestil, international summer student in Arendt lab, 2014
-Co-supervisor of David Puga, master student in Arendt lab, 2013
+* Co-supervisor of Quentin Pajot-Moric, rotation PhD student in Stephenson-Jones lab, 2021
+* Co-supervisor of Matthew Wisdom, research assistant in Stephenson-Jones lab, 2020
+* Co-supervisor of Yasmin Meyer, research assistant in Stephenson-Jones lab, 2020
+* Co-supervisor of Laura Schwarz, research assistant in Stephenson-Jones lab, 2019 - 2020
+* Co-supervisor of Ryan Prestil, international summer student in Arendt lab, 2014
+* Co-supervisor of David Puga, master student in Arendt lab, 2013
 
 Relevant additional training
 ======
@@ -119,15 +121,16 @@ Relevant additional training
 Service and leadership
 ======
 * Postdoc representative in the SWC 2022 - present
+* Recommender and reviewer in Peer Community In Neuroscience 2021 - present
+* Designated trainer for behaviour, surgical prodecures and perfusions, SWC 2019 - present
 * Tutor assistant in neuromatch academy 2021
 * Co-organizer of Emerging Neuroscientists Seminar Series, SWC 2020 - present
-* Recommender and reviewer in Peer Community In Neuroscience 2021 - present
 * Outreach participant in Skype a Scientist program 2021 - present
 * Active participant in the Research Culture Working Groups, SWC 2020 - present
-* Main co-organizer of the EMBL PhD Symposium 2013
 * Speaker to Santarder Bank high-school student awardees 2016
 * Science Slam speaker, outreach activity, Heidelberg 2015
-* Designated trainer for behaviour, surgical prodecures and perfusions, SWC 2019 - present
+* Main co-organizer of the EMBL PhD Symposium 2013
+
 
  
 <!-- Talks
