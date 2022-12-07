@@ -133,16 +133,16 @@ Service and leadership
 
 Grants and awards
 ======
-EMBO Long-Term Fellowship, £ 60.000, 2018 - 2020
-EMBO Long-Term Fellowship, Rejected, 2017
-EMBL International PhD Programme, € 48.000, 2012 - 2016
-La Caixa Scholarship for post-graduate studies in the USA, $ 120.000, 2010 - 2012
-Janelia Conference full travel grant, HHMI, € 1.700, 2018/16/15
-Deep Mind / FENS grant for Computational Neuroscience, € 1.150, 2017
-IRA Research Grant, San Francisco State University, $ 750, 2010
-Collaboration Scholarship, Spanish Goverment, € 2.700, 2008 - 2009
-JAE CSIC “Introduction to Research” Scholarship, € 1.000, 2008
-Menendez Pelayo International University conference grant, € 500, 2007
+* EMBO Long-Term Fellowship, £ 60.000, 2018 - 2020
+* EMBO Long-Term Fellowship, Rejected, 2017
+* EMBL International PhD Programme, € 48.000, 2012 - 2016
+* La Caixa Scholarship for post-graduate studies in the USA, $ 120.000, 2010 - 2012
+* Janelia Conference full travel grant, HHMI, € 1.700, 2018/16/15
+* Deep Mind / FENS grant for Computational Neuroscience, € 1.150, 2017
+* IRA Research Grant, San Francisco State University, $ 750, 2010
+* Collaboration Scholarship, Spanish Goverment, € 2.700, 2008 - 2009
+* JAE CSIC “Introduction to Research” Scholarship, € 1.000, 2008
+* Menendez Pelayo International University conference grant, € 500, 2007
 
  
 <!-- Talks
