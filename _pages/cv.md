@@ -10,46 +10,73 @@ redirect_from:
 {% include base_path %}
 
 Education
+
 ======
+
 * PhD in Natural Sciences, Heidelberg University, 2016
 * MSc in Cell and Developmental Biology, San Francisco State University, 2012
 * MSc in Bioinformatics, King's College London, 2010
 * BSc in Biotechnology, Universitat Autonoma de Barcelona, 2009
 
 Professional experience
+
 ======
+
 * **Senior Research Fellow**, Sainsbury Wellcome Center, UCL, 2018 - currently employed
-    * Led research on the neural basis of learning in mice resulting in one high-impact publication in a time-efficient manner for the standards of the field.
-    * Designed experiments and supervised the scientific work of four researchers.
-    * Implemented and automated over ten statistical workflows for the analysis of complex datasets involving machine learning toolkits (e.g. scikit-learn) in Python.
-    * Designed two histological quantification and visualization software packages for the analysis of biomarkers in Python and Java, increasing throughput twenty-fold.
-    * Accomplished over a hundred complex brain surgeries in mice successfully.
-    * Worked extensively with AAVs to label and manipulate neurons specifically.
-    * Performed over fifty in vivo experiments involving behavioral training of rodents, electrophysiological recordings, optogenetic and pharmacological manipulations, histological processing, and imaging using confocal and two-photon microscopy.
-    * Completed three international courses for leadership and laboratory management.
-    * Prepared over twenty presentations and posters for international meetings.
-    * Organized scientific dissemination events and participated in public outreach.
-    * Secured personal funding (>70K GBP) by achieving a highly competitive grant.
-    * Led the implementation of several policies at the institutional level.
-
-
+  * Led research on the neural basis of learning in mice resulting in one high-impact publication
+    in a time-efficient manner for the standards of the field.
+  * Supervised the scientific work of four researchers.
+  * Implemented and automated over ten statistical workflows for the analysis of complex time-series
+    datasets involving machine learning toolkits (e.g. scikit-learn) in Python.
+  * Designed two histological quantification and visualization software packages for the high-throughput
+    analysis of biomarkers in Python and Java, increasing efficiency twenty-fold.
+  * Designed and performed over fifty in vivo experiments involving behavioral training of rodents,
+    electrophysiological recordings of neurons, optogenetic and pharmacological manipulations or neuronal
+    activity, and anatomical tracing of neuronal processes.
+  * Processed hundreds of histological samples, optimised protocols to label RNA and protein biomarkers,
+    and imaged animal tissue samples using confocal and two-photon microscopy.
+  * Accomplished over a hundred complex stereotactical brain surgeries in mice successfully.
+  * Worked extensively with AAVs and other viruses to label and manipulate neurons specifically.
+  * Engineered and designed hardware components for the control of experimental variables in
+    close loop, involving electronics and robotics, and programming in Matlab and Python.
+  * Completed three international courses for leadership and laboratory management.
+  * Prepared and delivered over twenty scientific presentations and presented two posters
+    in international meetings.
+  * Organized scientific dissemination events and participated in public outreach.
+  * Secured personal funding (>70K GBP) by achieving a highly competitive international grant.
+  * Led the implementation of several policies at the institutional level.
+  * Trained multiple researchers in experimental competencies for handling and working with animals.
+  * Teached two courses on behavioural experiments.
+  
 * **Postdoctoral and Graduate Researcher**, European Molecular Biology Laboratory, 2012 - 2017
-    * Led research on the evolution of the nervous system using molecular and imaging techniques, resulting in seven scientific articles in high-impact journals.
-    * Designed and implemented a high-throughput transcriptomics method, and developed the current state-of-the-art software to automatically analyze the data to generate spatial transcriptome atlases using image analysis in ImageJ and R.
-    * Managed an international collaboration project involving multidisciplinary research groups, dealing with single-cell and spatial omics, resulting in a breakthrough publication in the journal Cell.
-    * Completed ten courses on machine learning, artificial intelligence, mathematical modeling, software development, and biomedical entrepreneurship.
-    * Collaborated in a project to spatially map single-cell sequencing data.
-    * Performed multiple experiments involving plasmid design and cloning, Crispr-Cas9 gene editing, sequencing and phylogenetics, DNA and RNA purification, blotting, cell culture, microinjection, histology, and confocal and electron microscopy.
-    * Teached four introductory courses on image analysis.
-
+  * Led research on the evolution of the nervous system,
+    resulting in seven scientific articles in high-impact journals.
+  * Designed and implemented a high-throughput transcriptomics method, and developed the current
+    state-of-the-art software to automatically analyze gene expression data to generate spatial transcriptome
+    atlases using image analysis in ImageJ and R.
+  * Managed an international collaboration project involving multidisciplinary research groups,
+    dealing with single-cell and spatial omics, resulting in a breakthrough publication in the journal Cell.
+  * Completed ten courses on machine learning, artificial intelligence, mathematical modeling,
+    software development, and biomedical entrepreneurship.
+  * Performed multiple experiments involving plasmid design and cloning, Crispr-Cas9 gene editing,
+    sequencing and phylogenetics, DNA and RNA purification, blotting, cell culture, microinjection,
+    histology and staining, and imaging using confocal and electron microscopy.
+  * Collaborated in a project to spatially map single-cell sequencing data.
+  * Designed a software for motion tracking on freely moving animals.
+  * Teached four introductory courses on image analysis.
+  * Prepared and delivered multiple scientific reports and oral presentations for effective dissemination
+    of scientific data.
+  * Supervised the scientific work of two researchers.
 
 * **Additional experience**, KCL, SFSU, 2009 - 2012
-    * Led research in muscle development using gene expression interference.
-    * Secured personal funding (>120K USD) by achieving a highly competitive grant.
-    * Performed bioinformatics analysis of genetic interaccions using graph theory.
+  * Led research in muscle development using gene expression interference.
+  * Secured personal funding (>120K USD) by achieving a highly competitive grant.
+  * Performed bioinformatics analysis of genetic interaccions using graph theory.
   
 Skills
+
 ======
+
 * Project management
 * Team management
 * Statistics and data analysis
@@ -72,14 +99,18 @@ Skills
 * Office
 
 Publications
+
 ======
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Relevant presentations
+
 ======
-* Selected talk at Instituto de Neurociencias Christmas meeting, Alicante 2022 
+
+* Selected talk at Instituto de Neurociencias Christmas meeting, Alicante 2022
 * Invited speaker at IDIBAPS SysNeuro JC, Barcelona 2022
 * Poster presentation in FENS, Paris 2022
 * Invited speaker at UCL Bioimage Analysis series, London 2021
@@ -91,13 +122,17 @@ Relevant presentations
 * Short talk at COS Symposium “Darwin 2.0 - New tools to go through time”, Heidelberg 2015
 
 Teaching
+
 ======
+
 * Teacher in the Behavioural Module at the SWC PhD course, 2018 - 2021
 * Teacher in the Developmental Biology Module at the EMBL PhD course, 2013 - 2016
 * Teacher in the MAMED course for marine biology, 2015
 
 Supervision
+
 ======
+
 * Co-supervisor of Quentin Pajot-Moric, rotation PhD student in Stephenson-Jones lab, 2021
 * Co-supervisor of Matthew Wisdom, research assistant in Stephenson-Jones lab, 2020
 * Co-supervisor of Yasmin Meyer, research assistant in Stephenson-Jones lab, 2020
@@ -106,7 +141,9 @@ Supervision
 * Co-supervisor of David Puga, master student in Arendt lab, 2013
 
 Relevant additional training
+
 ======
+
 * EMBO laboratory leadership course, virtual 2021
 * Cajal course in computational neuroscience, Lisbon 2017
 * Advanced R programming, Heidelberg 2017
@@ -119,7 +156,9 @@ Relevant additional training
 * Writing and publishing scientific papers EMBL course, Cambridge 2016
 
 Service and leadership
+
 ======
+
 * Postdoc representative in the SWC 2022 - present
 * Recommender and reviewer in Peer Community In Neuroscience 2021 - present
 * Designated trainer for behaviour, surgical prodecures and perfusions, SWC 2019 - present
@@ -132,7 +171,9 @@ Service and leadership
 * Main co-organizer of the EMBL PhD Symposium 2013
 
 Grants and awards
+
 ======
+
 * EMBO Long-Term Fellowship, £ 60.000, 2018 - 2020
 * EMBO Long-Term Fellowship, Rejected, 2017
 * EMBL International PhD Programme, € 48.000, 2012 - 2016
@@ -144,7 +185,6 @@ Grants and awards
 * JAE CSIC “Introduction to Research” Scholarship, € 1.000, 2008
 * Menendez Pelayo International University conference grant, € 500, 2007
 
- 
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
