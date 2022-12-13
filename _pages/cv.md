@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 Education
-
 ======
 
 * PhD in Natural Sciences, Heidelberg University, 2016
@@ -19,7 +18,6 @@ Education
 * BSc in Biotechnology, Universitat Autonoma de Barcelona, 2009
 
 Professional experience
-
 ======
 
 * **Senior Research Fellow**, Sainsbury Wellcome Center, UCL, 2018 - currently employed
@@ -74,7 +72,6 @@ Professional experience
   * Performed bioinformatics analysis of genetic interaccions using graph theory.
   
 Skills
-
 ======
 
 * Project management
@@ -99,7 +96,6 @@ Skills
 * Office
 
 Publications
-
 ======
 
   <ul>{% for post in site.publications %}
@@ -107,7 +103,6 @@ Publications
   {% endfor %}</ul>
 
 Relevant presentations
-
 ======
 
 * Selected talk at Instituto de Neurociencias Christmas meeting, Alicante 2022
@@ -122,7 +117,6 @@ Relevant presentations
 * Short talk at COS Symposium “Darwin 2.0 - New tools to go through time”, Heidelberg 2015
 
 Teaching
-
 ======
 
 * Teacher in the Behavioural Module at the SWC PhD course, 2018 - 2021
@@ -130,7 +124,6 @@ Teaching
 * Teacher in the MAMED course for marine biology, 2015
 
 Supervision
-
 ======
 
 * Co-supervisor of Quentin Pajot-Moric, rotation PhD student in Stephenson-Jones lab, 2021
@@ -141,7 +134,6 @@ Supervision
 * Co-supervisor of David Puga, master student in Arendt lab, 2013
 
 Relevant additional training
-
 ======
 
 * EMBO laboratory leadership course, virtual 2021
@@ -156,7 +148,6 @@ Relevant additional training
 * Writing and publishing scientific papers EMBL course, Cambridge 2016
 
 Service and leadership
-
 ======
 
 * Postdoc representative in the SWC 2022 - present
@@ -171,7 +162,6 @@ Service and leadership
 * Main co-organizer of the EMBL PhD Symposium 2013
 
 Grants and awards
-
 ======
 
 * EMBO Long-Term Fellowship, £ 60.000, 2018 - 2020
