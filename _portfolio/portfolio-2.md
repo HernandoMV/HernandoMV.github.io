@@ -8,5 +8,4 @@ collection: portfolio
 Coded in Python and Java, these set of tools performs a complex set of image analysis routines
 in order to quantify the area that is lesioned in specific brain regions.
 
-You can see more about it here:
-https://github.com/HernandoMV/quantification-of-lesions
+You can see more about it [here](https://github.com/HernandoMV/quantification-of-lesions)

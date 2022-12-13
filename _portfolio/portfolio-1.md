@@ -10,5 +10,4 @@ interesting regions of interest in images, extracted appropriately from .czi fil
 them down into smaller images for their consequent analysis, saving along the way the necessary
 information for their reconstruction.
 
-You can see more about it here:
-https://github.com/HernandoMV/czi-roisplitter
+You can see more about it [here](https://github.com/HernandoMV/czi-roisplitter)
