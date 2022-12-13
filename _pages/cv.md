@@ -62,7 +62,7 @@ Professional experience
     sequencing and phylogenetics, DNA and RNA purification, blotting, cell culture, microinjection,
     histology and staining, and imaging using confocal and electron microscopy.
   * Collaborated in a project to spatially map single-cell sequencing data.
-  * Designed a software for motion tracking on freely moving animals.
+  * Designed a software for motion tracking on freely moving animals in Matlab.
   * Teached four introductory courses on image analysis.
   * Prepared and delivered multiple scientific reports and oral presentations for effective dissemination
     of scientific data.

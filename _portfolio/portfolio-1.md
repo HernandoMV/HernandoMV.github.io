@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "czi-roisplitter"
+excerpt: "Deal with big and complex image files <br/><img src='/images/roisplitter.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Coded in Python and Java, this ImageJ Graphical User Interface helps the user select
+interesting regions of interest in images, extracted appropriately from .czi file types, and breaks
+them down into smaller images for their consequent analysis, saving along the way the necessary
+information for their reconstruction.
