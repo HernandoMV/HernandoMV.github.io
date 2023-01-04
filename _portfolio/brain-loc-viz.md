@@ -1,6 +1,6 @@
 ---
 title: "brain-locations-visualizer"
-excerpt: "Visualise locations of stereotactic surgeries in mice"
+excerpt: "Visualise locations of stereotactic surgeries in mice
 <br/><img src='/images/brainlocviz.png' width=350>"
 collection: portfolio
 ---
