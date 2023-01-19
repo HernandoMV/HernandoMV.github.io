@@ -105,16 +105,21 @@ Publications
 Relevant presentations
 ======
 
-* Selected talk at Instituto de Neurociencias Christmas meeting, Alicante 2022
-* Invited speaker at IDIBAPS SysNeuro JC, Barcelona 2022
-* Poster presentation in FENS, Paris 2022
-* Invited speaker at UCL Bioimage Analysis series, London 2021
-* Seminar at the Interdisciplinary Center for Neurosciences, Heidelberg University 2018
-* Invited speaker in series of talks: seminars in Evo-Devo, Cambridge University 2018
-* Talk at the workshop “Advances in molecular biology by young researchers”, CNB Madrid 2017
-* Invited speaker at Conference “De la mer à l’image”, Banyuls sur Mer 2017
-* Short talk at Neptune EvoDevo Symposium, Lisbon 2016
-* Short talk at COS Symposium “Darwin 2.0 - New tools to go through time”, Heidelberg 2015
+* Selected talk at Instituto de Neurociencias Christmas meeting, Alicante, 21-22 December 2022
+* Invited speaker at IDIBAPS SysNeuro JC, Barcelona, 21 October 2022
+* Poster presentation in Federation of European Neuroscience Societies (FENS), Paris, 9-13 July 2022
+* Invited speaker at UCL Bioimage Analysis series, London, 24 September 2021
+* Seminar at the Interdisciplinary Center for Neurosciences, Heidelberg University, 9 November 2018
+* Invited speaker in series of talks: seminars in Evo-Devo, Cambridge University, 17 January 2018
+* Poster presentation in conference Neuro-Evo II, Janelia Farm, 6-9 May 2018
+* Talk at the workshop “Advances in molecular biology by young researchers”, CNB Madrid, 20 December 2017
+* Invited speaker at Conference “De la mer à l’image”, Banyuls sur Mer, 11-12 July 2017
+* Short talk at Neptune EvoDevo Symposium, Lisbon, 9-11 November 2016
+* Poster presentation in conference Neuro-Evo I, Janelia Farm, May 15-18 2016
+* Short talk at COS Symposium “Darwin 2.0 - New tools to go through time”, Heidelberg 17 June 2015
+* Poster presentation in conference Hypothatlamic circuits, Janelia Farm, 27-30 September 2015
+* Poster presentation in congress Neurobiology of action, ESF-FENS, Stresa 20-24 October 2013
+* Poster presentation at BaMBa, Standford, 9 November 2010.
 
 Teaching
 ======
