@@ -119,7 +119,7 @@ Relevant presentations
 * Short talk at COS Symposium “Darwin 2.0 - New tools to go through time”, Heidelberg 17 June 2015
 * Poster presentation in conference Hypothatlamic circuits, Janelia Farm, 27-30 September 2015
 * Poster presentation in congress Neurobiology of action, ESF-FENS, Stresa 20-24 October 2013
-* Poster presentation at BaMBa, Standford, 9 November 2010.
+* Poster presentation at BaMBa, Stanford, 9 November 2010.
 
 Teaching
 ======
