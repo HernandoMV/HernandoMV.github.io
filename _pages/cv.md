@@ -22,6 +22,7 @@ Professional experience
 
 * **Senior Computer Biologist**, EsyaLabs, 2023 - currently employed
   * Developing high-throughput image analysis methods.
+  * Stablished CI/CD practices in the team.
 
 * **Senior Research Fellow**, Sainsbury Wellcome Center, UCL, 2018 - 2023
   * Led research on the neural basis of learning in mice resulting in one high-impact publication
