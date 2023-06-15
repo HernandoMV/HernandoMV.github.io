@@ -20,7 +20,7 @@ Education
 Professional experience
 ======
 
-* **Senior Computer Biologist**, EsyaLabs, 2023 - currently employed
+* **Head of Neuroanalytics and Multiomics**, EsyaLabs, 2023 - currently employed
   * Developing high-throughput image analysis methods.
   * Stablished CI/CD practices in the team.
 
