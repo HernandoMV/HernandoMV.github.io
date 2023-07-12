@@ -23,6 +23,12 @@ Professional experience
 * **Head of Neuroanalytics and Multiomics**, EsyaLabs, 2023 - currently employed
   * Developing high-throughput image analysis methods.
   * Stablished CI/CD practices in the team.
+  
+  [//]: <> (FDA regulation)
+  [//]: <> (Grant writing)
+  [//]: <> (Modeling and ML)
+  [//]: <> (Project management, data management, team management, setting up GUIs, experimental design and R&D, multiomics)
+
 
 * **Senior Research Fellow**, Sainsbury Wellcome Center, UCL, 2018 - 2023
   * Led research on the neural basis of learning in mice resulting in one high-impact publication
