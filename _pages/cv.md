@@ -21,12 +21,14 @@ Professional experience
 ======
 
 * **Head of Neuroanalytics and Multiomics**, EsyaLabs, 2023 - currently employed
-  * Developing high-throughput image analysis methods.
+  * Developed automatic high-throughput image analysis methods, speeding the analysis of complex datasets by a factor of 1000x.
+  * Combined multi-omics (transcriptomics, proteomics) and multi-modal data using modeling and machine learning for the detection and classification of neurodegenerative diseases.
   * Stablished CI/CD practices in the team.
+  * Developed the ability to communicate with multiple stakeholders.
+  * Developed the ability to work in a fast-paced environment.
+  * Experience in distinct medical regulatory environments (e.g. FDA).
+  * Acquisition of >1M GBP in funding through grants and competitions.
   
-  [//]: <> (FDA regulation)
-  [//]: <> (Grant writing)
-  [//]: <> (Modeling and ML)
   [//]: <> (Project management, data management, team management, setting up GUIs, experimental design and R&D, multiomics)
 
 
