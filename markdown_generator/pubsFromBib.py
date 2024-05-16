@@ -16,24 +16,17 @@
 # TODO: Merge this with the existing TSV parsing solution
 
 
-from pybtex.database.input import bibtex
-import pybtex.database.input.bibtex 
-from time import strptime
-import string
 import html
 import os
 import re
+import string
+from time import strptime
+
+import pybtex.database.input.bibtex
+from pybtex.database.input import bibtex
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
-    "proceeding": {
-        "file" : "proceedings.bib",
-        "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
-        
-    },
     "journal":{
         "file": "pubs.bib",
         "venuekey" : "journal",

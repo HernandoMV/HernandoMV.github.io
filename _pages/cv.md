@@ -20,7 +20,11 @@ Education
 Professional experience
 ======
 
-* **Head of Neuroanalytics and Multiomics**, EsyaLabs, 2023 - currently employed
+* **Ramon y Cajal Fellow**, FCRB-IDIBAPS, 2024 - Currently employed
+  * Leading a research group.
+  * Investigating the neural circuits involved in learning.
+
+* **Head of Neuroanalytics and Multiomics**, EsyaLabs, 2023 - 2024
   * Developed automatic high-throughput image analysis methods, speeding the analysis of complex datasets by a factor of 1000x.
   * Combined multi-omics (transcriptomics, proteomics) and multi-modal data using modeling and machine learning for the detection and classification of neurodegenerative diseases.
   * Stablished CI/CD practices in the team.
@@ -35,8 +39,8 @@ Professional experience
   [//]: <> (Neurodegeneration)
 
 * **Senior Research Fellow**, Sainsbury Wellcome Center, UCL, 2018 - 2023
-  * Led research on the neural basis of learning in mice resulting in one high-impact publication
-    in a time-efficient manner for the standards of the field.
+  * Led research on the neural basis of learning in mice resulting in one high-impact publication.
+  [//]: <> (in a time-efficient manner for the standards of the field.)
   * Supervised the scientific work of four researchers.
   * Implemented and automated over ten statistical workflows for the analysis of complex time-series
     datasets involving machine learning toolkits (e.g. scikit-learn) in Python.
@@ -119,6 +123,9 @@ Publications
 Relevant presentations
 ======
 
+* Selected talk at the BARCCSYN meeting, Barcelona, 29-30 May 2024
+* Poster presentation in BioTechX conference, Basel, 4-6 October, 2023
+* Poster presentation in AAIC conference, Ambsterdam, 16-20 July, 2023
 * Selected talk at Instituto de Neurociencias Christmas meeting, Alicante, 21-22 December 2022
 * Invited speaker at IDIBAPS SysNeuro JC, Barcelona, 21 October 2022
 * Poster presentation in Federation of European Neuroscience Societies (FENS), Paris, 9-13 July 2022

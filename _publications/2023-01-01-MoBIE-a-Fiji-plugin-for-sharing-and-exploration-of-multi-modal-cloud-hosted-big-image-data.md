@@ -1,0 +1,11 @@
+---
+title: "MoBIE: a Fiji plugin for sharing and exploration of multi-modal cloud-hosted big image data"
+collection: publications
+permalink: /publication/2023-01-01-MoBIE-a-Fiji-plugin-for-sharing-and-exploration-of-multi-modal-cloud-hosted-big-image-data
+excerpt: 'Modern microscopy produces massive image datasets that enable detailed multi-scale analysis and can combine several modalities. Visualizing, exploring and sharing such data are challenges both during the execution of a research project and after publication to enable open access. To this end we have developed MoBIE, a Fiji1 plugin for multi-modal big image data sharing and exploration. It supports visualization of multi-scale data of heterogeneous dimensionality (that is, combined 2D, 3D or 4D data) and several-terabyte image data, as well as the exploration of image segmentations, corresponding measurements and annotations. MoBIE uses next-generation image file formats, such as OME-Zarr2, that enable access to multi-scale data on local or cloud storage, permitting the transparent sharing and publication of data without the need to run a web service. In addition, MoBIE allows users to easily configure and share fully reproducible ‘views’ of their data. MoBIE has enabled integration of multiple modalities and open access for data from different domains of the life sciences. This includes data from studies in developmental biology3 (Fig. 1a), correlative microscopy, high-throughput screening microscopy4, plant biology and spatial transcriptomics5 (all Fig. 1c). Further applications can be found in Supplementary Note 8 and Supplementary Figs. 1–4. Video tutorials for MoBIE are available at https://www.youtube.com/@MoBIE-Viewer and documentation at https://mobie.github.io/.'
+date: 2023-01-01
+venue: 'Nature Methods'
+paperurl: 'https://www.nature.com/articles/s41592-023-01776-4'
+citation: ' Constantin Pape,  Kimberly Meechan,  Ekaterina Moreva,  Martin Schorb,  Nicolas Chiaruttini,  Valentyna Zinchenko,  Hernando Vergara,  Giulia Mizzon,  Josh Moore,  Detlev Arendt,  Anna Kreshuk,  Yannick Schwab,  Christian Tischer, &quot;MoBIE: a Fiji plugin for sharing and exploration of multi-modal cloud-hosted big image data.&quot; Nature Methods, 2023.'
+---
+[Access paper here](https://www.nature.com/articles/s41592-023-01776-4){:target="_blank"}
