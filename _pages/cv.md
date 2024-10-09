@@ -123,7 +123,7 @@ Publications
 Relevant presentations
 ======
 
-* Selected talk at the BARCCSYN meeting, Barcelona, 29-30 May 2024
+* Selected talk at the BARCCSYN meeting, Barcelona, 30-31 May 2024
 * Poster presentation in BioTechX conference, Basel, 4-6 October, 2023
 * Poster presentation in AAIC conference, Ambsterdam, 16-20 July, 2023
 * Selected talk at Instituto de Neurociencias Christmas meeting, Alicante, 21-22 December 2022
@@ -200,6 +200,20 @@ Grants and awards
 * Collaboration Scholarship, Spanish Goverment, € 2.700, 2008 - 2009
 * JAE CSIC “Introduction to Research” Scholarship, € 1.000, 2008
 * Menendez Pelayo International University conference grant, € 500, 2007
+
+Research Projects
+======
+* RYC2022-035145-I: ayudas Ramón y Cajal, convocatoria 2022, to Dr. Hernando Martinez Vergara in Fundació De Recerca Clínic Barcelona-Institut D'investigacions Biomèdiques August Pi I Sunyer. From April 2024 to March 2029. € 314.350,00. Type of participation: principal investigator.
+* AEI-Proyectos Generación de Conocimiento, convocatoria 2023: to Dr. Hernando Martinez Vergara in Fundació De Recerca Clínic Barcelona-Institut D'investigacions Biomèdiques August Pi I Sunyer. From December 2024 to December 2027. € 185.000,00. Type of participation: principal investigator.
+* 853413: “Elucidating the Basal Ganglia Circuits for Reward Expectation”. European Research Council Starting Grant (LS5), 2019 call, to Marcus Stephenson-Jones in University College London. From January 2020 to December 2024. € 1.498.100,00. Type of participation: postdoctoral researcher.
+* GAT3755: Gatsby Foundation Core Grant to Prof Mrsic-Flogel in University College London. From 2020 to 2025. £ 1.426.500,00. Type of participation: postdoctoral researcher.
+* 219627/Z/19/Z: Wellcome Trust Core Grant to Prof Mrsic-Flogel in University College London. From 2020 to 2025. £ 792.500,00. Type of participation: postdoctoral researcher.
+* GAT3755: Gatsby Foundation Core Grant to Dr. Stephenson-Jones in University College London. From 2020 to 2025. £ 1.162.753,00. Type of participation: postdoctoral researcher.
+* 219627/Z/19/Z: Wellcome Trust Core Grant to Dr. Stephenson-Jones in University College London. From 2020 to 2025. £ 645.974,00. Type of participation: postdoctoral researcher.
+* 543021: Simons Foundation to Prof. Mrsic-Flogel in University College London, SPI Churchland A. International Brain Laboratory (IBL). From 2018 to 2023. £ 389.363,00. Type of participation: postdoctoral researcher. 
+* 294810: “A Neuron Type Atlas of the Annelid Brain: Development and Evolution of Chemosensory-Motor Circuits”. European Research Council Advanced Grant (LS3), 2011 call, to Detlev Arendt in European Molecular Biology Laboratory Heidelberg. From March 2012 to February 2017. € 2.489.048,00. Type of participation: graduate researcher and postdoctoral researcher.
+* SC3GM081165: “Molecular Mechanisms Underlying Xenopus Somitogenesis”. NIH NIGMS Grant to Carmen Domingo in San Francisco State University. From 2011 to 2013. $ 464.504,00. Type of participation: undergraduate researcher.
+* ALTF 827-2018: “Dissociation of cell class-specific roles of cortico-striatal circuits during learning and behavior”. European Molecular Biology Organization Long-Term Fellowship, 2018 call to Dr. Hernando Martinez Vergara in University College London. From January 2019 to December 2020. £ 59.824,00. Type of participation: awarded postdoctoral fellow.
 
 <!-- Talks
 ======
