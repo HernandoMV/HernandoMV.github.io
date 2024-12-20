@@ -37,6 +37,7 @@ Professional experience
   [//]: <> (Market analysis, Product placement)
   [//]: <> (Blood biomarkers, RNA sequencing)
   [//]: <> (Neurodegeneration)
+  [//]: <> (Add publication here and in publications)
 
 * **Senior Research Fellow**, Sainsbury Wellcome Center, UCL, 2018 - 2023
   * Led research on the neural basis of learning in mice resulting in one high-impact publication.
@@ -92,6 +93,7 @@ Professional experience
 Skills
 ======
 
+[//]: <> (Change this)
 * Project management
 * Team management
 * Statistics and data analysis
@@ -161,7 +163,7 @@ Supervision
 
 Relevant additional training
 ======
-
+[//]: <> (CRG course)
 * EMBO laboratory leadership course, virtual 2021
 * Cajal course in computational neuroscience, Lisbon 2017
 * Advanced R programming, Heidelberg 2017
@@ -176,13 +178,13 @@ Relevant additional training
 Service and leadership
 ======
 
-* Postdoc representative in the SWC 2022 - present
-* Recommender and reviewer in Peer Community In Neuroscience 2021 - present
-* Designated trainer for behaviour, surgical prodecures and perfusions, SWC 2019 - present
+* Postdoc representative in the SWC 2022 - 2023
+* Recommender and reviewer in Peer Community In Neuroscience 2021 - 2023
+* Designated trainer for behaviour, surgical prodecures and perfusions, SWC 2019 - 2023
 * Tutor assistant in neuromatch academy 2021
-* Co-organizer of Emerging Neuroscientists Seminar Series, SWC 2020 - present
-* Outreach participant in Skype a Scientist program 2021 - present
-* Active participant in the Research Culture Working Groups, SWC 2020 - present
+* Co-organizer of Emerging Neuroscientists Seminar Series, SWC 2020 - 2023
+* Outreach participant in Skype a Scientist program 2021 - 2022
+* Active participant in the Research Culture Working Groups, SWC 2020 - 2023
 * Speaker to Santarder Bank high-school student awardees 2016
 * Science Slam speaker, outreach activity, Heidelberg 2015
 * Main co-organizer of the EMBL PhD Symposium 2013
@@ -190,6 +192,7 @@ Service and leadership
 Grants and awards
 ======
 
+* Ramón y Cajal Fellowship, € 314.350, 2024 - 2029
 * EMBO Long-Term Fellowship, £ 60.000, 2018 - 2020
 * EMBO Long-Term Fellowship, Rejected, 2017
 * EMBL International PhD Programme, € 48.000, 2012 - 2016
