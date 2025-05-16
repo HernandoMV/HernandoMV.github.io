@@ -1,0 +1,10 @@
+---
+title: "Dopaminergic action prediction errors serve as a value-free teaching signal"
+collection: publications
+permalink: /publication/2025-01-01-Dopaminergic-action-prediction-errors-serve-as-a-value-free-teaching-signal
+excerpt: '{Choice behaviour of animals is characterized by two main tendencies: taking actions that led to rewards and repeating past actions1,2. Theory suggests that these strategies may be reinforced by different types of dopaminergic teaching signals: reward prediction error to reinforce value-based associations and movement-based action prediction errors to reinforce value-free repetitive associations3, 4, 5–6. Here we use an auditory discrimination task in mice to show that movement-related dopamine activity in the tail of the striatum encodes the hypothesized action prediction error signal. Causal manipulations reveal that this prediction error serves as a value-free teaching signal that supports learning by reinforcing repeated associations. Computational modelling and experiments demonstrate that action prediction errors alone cannot support reward-guided learning, but when paired with the reward prediction error circuitry they serve to consolidate stable sound–action associations in a value-free manner. Together we show that there are two types of dopaminergic prediction errors that work in tandem to support learning, each reinforcing different types of association in different striatal areas.}'
+date: 2025-01-01
+venue: 'Nature'
+citation: ' Francesca Greenstreet,  Hernando Vergara,  Yvonne Johansson,  Sthitapranjya Pati,  Laura Schwarz,  Stephen Lenzi,  Jesse Geerts,  Matthew Wisdom,  Alina Gubanova,  Lars Rollik,  Jasvin Kaur,  Theodore Moskovitz,  Joseph Cohen,  Emmett Thompson,  Troy Margrie,  Claudia Clopath,  Marcus Stephenson-Jones, &quot;Dopaminergic action prediction errors serve as a value-free teaching signal.&quot; Nature, 2025.'
+---
+Use [Google Scholar](https://scholar.google.com/scholar?q=Dopaminergic+action+prediction+errors+serve+as+a+value+free+teaching+signal){:target="_blank"} for full citation

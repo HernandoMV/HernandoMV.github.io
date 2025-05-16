@@ -154,6 +154,8 @@ Teaching
 Supervision
 ======
 
+* Main supervisor of Nuo Dong, PhD student, 2025
+* Main supervisor of Eloi Jacomet Cecilia, undergraduate student, 2025
 * Co-supervisor of Quentin Pajot-Moric, rotation PhD student in Stephenson-Jones lab, 2021
 * Co-supervisor of Matthew Wisdom, research assistant in Stephenson-Jones lab, 2020
 * Co-supervisor of Yasmin Meyer, research assistant in Stephenson-Jones lab, 2020
@@ -163,7 +165,8 @@ Supervision
 
 Relevant additional training
 ======
-[//]: <> (CRG course)
+
+* Leadership and management skills course, CRG Barcelona 2025
 * EMBO laboratory leadership course, virtual 2021
 * Cajal course in computational neuroscience, Lisbon 2017
 * Advanced R programming, Heidelberg 2017
