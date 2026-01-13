@@ -7,4 +7,4 @@ date: 2025-01-01
 venue: 'Nature'
 citation: ' Francesca Greenstreet,  Hernando Vergara,  Yvonne Johansson,  Sthitapranjya Pati,  Laura Schwarz,  Stephen Lenzi,  Jesse Geerts,  Matthew Wisdom,  Alina Gubanova,  Lars Rollik,  Jasvin Kaur,  Theodore Moskovitz,  Joseph Cohen,  Emmett Thompson,  Troy Margrie,  Claudia Clopath,  Marcus Stephenson-Jones, &quot;Dopaminergic action prediction errors serve as a value-free teaching signal.&quot; Nature, 2025.'
 ---
-[Access paper here](https://www.nature.com/articles/s41586-025-09008-9){:target="_blank"}
+Use [Google Scholar](https://scholar.google.com/scholar?q=Dopaminergic+action+prediction+errors+serve+as+a+value+free+teaching+signal){:target="_blank"} for full citation
