@@ -182,6 +182,7 @@ Service and leadership
 ======
 
 * Main organizer of the BARCCSYN Conference 2026
+* Reviewer for AEI Spanish Research Agency since 2025
 * Co-organizer of the SWC-Gatsby Symposium 2022
 * Postdoc representative in the SWC 2022 - 2023
 * Recommender and reviewer in Peer Community In Neuroscience from 2021
