@@ -124,7 +124,7 @@ Publications
 
 Relevant presentations
 ======
-
+* Invited talk at the NeuCoME seminar series, Barcelona, 3 April 2025
 * Selected talk at the BARCCSYN meeting, Barcelona, 30-31 May 2024
 * Poster presentation in BioTechX conference, Basel, 4-6 October, 2023
 * Poster presentation in AAIC conference, Amsterdam, 16-20 July, 2023
@@ -181,14 +181,16 @@ Relevant additional training
 Service and leadership
 ======
 
+* Main organizer of the BARCCSYN Conference 2026
+* Co-organizer of the SWC-Gatsby Symposium 2022
 * Postdoc representative in the SWC 2022 - 2023
-* Recommender and reviewer in Peer Community In Neuroscience 2021 - 2023
+* Recommender and reviewer in Peer Community In Neuroscience from 2021
 * Designated trainer for behaviour, surgical prodecures and perfusions, SWC 2019 - 2023
 * Tutor assistant in neuromatch academy 2021
 * Co-organizer of Emerging Neuroscientists Seminar Series, SWC 2020 - 2023
 * Outreach participant in Skype a Scientist program 2021 - 2022
 * Active participant in the Research Culture Working Groups, SWC 2020 - 2023
-* Speaker to Santarder Bank high-school student awardees 2016
+* Speaker to Santander Bank high-school student awardees 2016
 * Science Slam speaker, outreach activity, Heidelberg 2015
 * Main co-organizer of the EMBL PhD Symposium 2013
 
@@ -210,7 +212,7 @@ Grants and awards
 Research Projects
 ======
 * RYC2022-035145-I: ayudas Ramón y Cajal, convocatoria 2022, to Dr. Hernando Martinez Vergara in Fundació De Recerca Clínic Barcelona-Institut D'investigacions Biomèdiques August Pi I Sunyer. From April 2024 to March 2029. € 314.350,00. Type of participation: principal investigator.
-* AEI-Proyectos Generación de Conocimiento, convocatoria 2023: to Dr. Hernando Martinez Vergara in Fundació De Recerca Clínic Barcelona-Institut D'investigacions Biomèdiques August Pi I Sunyer. From December 2024 to December 2027. € 185.000,00. Type of participation: principal investigator.
+* PID2023-150497OA-I00: AEI-Proyectos Generación de Conocimiento, convocatoria 2023: to Dr. Hernando Martinez Vergara in Fundació De Recerca Clínic Barcelona-Institut D'investigacions Biomèdiques August Pi I Sunyer. From December 2024 to December 2027. € 185.000,00. Type of participation: principal investigator.
 * 853413: “Elucidating the Basal Ganglia Circuits for Reward Expectation”. European Research Council Starting Grant (LS5), 2019 call, to Marcus Stephenson-Jones in University College London. From January 2020 to December 2024. € 1.498.100,00. Type of participation: postdoctoral researcher.
 * GAT3755: Gatsby Foundation Core Grant to Prof Mrsic-Flogel in University College London. From 2020 to 2025. £ 1.426.500,00. Type of participation: postdoctoral researcher.
 * 219627/Z/19/Z: Wellcome Trust Core Grant to Prof Mrsic-Flogel in University College London. From 2020 to 2025. £ 792.500,00. Type of participation: postdoctoral researcher.
