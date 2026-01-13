@@ -29,19 +29,14 @@ Professional experience
   * Combined multi-omics (transcriptomics, proteomics) and multi-modal data using modeling and machine learning for the detection and classification of neurodegenerative diseases.
   * Stablished CI/CD practices in the team.
   * Developed the ability to communicate with multiple stakeholders.
-  * Developed the ability to work in a fast-paced environment.
+  * Performed market analysis and product placement strategies for neurodegenerative disease diagnostics and biomarkers.
   * Experience in distinct medical regulatory environments (e.g. FDA).
-  * Acquisition of >1M GBP in funding through grants and competitions.
+  * Acquisition of >350K GBP in funding through grants and competitions.
+  * Published 1 scientific article.
   
-  [//]: <> (Project management, data management, team management, setting up GUIs, experimental design and R&D, multiomics)
-  [//]: <> (Market analysis, Product placement)
-  [//]: <> (Blood biomarkers, RNA sequencing)
-  [//]: <> (Neurodegeneration)
-  [//]: <> (Add publication here and in publications)
 
 * **Senior Research Fellow**, Sainsbury Wellcome Center, UCL, 2018 - 2023
   * Led research on the neural basis of learning in mice resulting in one high-impact publication.
-  [//]: <> (in a time-efficient manner for the standards of the field.)
   * Supervised the scientific work of four researchers.
   * Implemented and automated over ten statistical workflows for the analysis of complex time-series
     datasets involving machine learning toolkits (e.g. scikit-learn) in Python.
@@ -93,20 +88,19 @@ Professional experience
 Skills
 ======
 
-[//]: <> (Change this)
 * Project management
 * Team management
-* Statistics and data analysis
-* Multi-omics
-* Biomarkers
+* Neurobiology
+* Behavioural neuroscience
+* Cell and molecular biology
+* Animal biology (in vivo)
 * Image analysis
 * Microscopy and histology
 * Software development
+* Statistics and data analysis
+* Biomarkers
 * Data visualisation
 * Scientific communication
-* Cell and molecular biology
-* Neurobiology
-* Animal biology (in vivo)
 * Python
 * ImageJ
 * R Bioconductor
