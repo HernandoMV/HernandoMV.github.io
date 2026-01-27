@@ -118,6 +118,7 @@ Publications
 
 Relevant presentations
 ======
+
 * Invited talk at the NeuCoME seminar series, Barcelona, 3 April 2025
 * Selected talk at the BARCCSYN meeting, Barcelona, 30-31 May 2024
 * Poster presentation in BioTechX conference, Basel, 4-6 October, 2023
@@ -175,6 +176,8 @@ Relevant additional training
 Service and leadership
 ======
 
+* Mentor through the EMBL-Alumni Mentorship Program from 2026
+* Main organizer of the FENS Satellite “From Neural Circuits to Choices” 2026
 * Main organizer of the BARCCSYN Conference 2026
 * Reviewer for AEI Spanish Research Agency since 2025
 * Co-organizer of the SWC-Gatsby Symposium 2022
@@ -229,3 +232,4 @@ Research Projects
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+
