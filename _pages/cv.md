@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-
 * PhD in Natural Sciences, Heidelberg University, 2016
 * MSc in Cell and Developmental Biology, San Francisco State University, 2012
 * MSc in Bioinformatics, King's College London, 2010
@@ -19,7 +18,6 @@ Education
 
 Professional experience
 ======
-
 * **Ramon y Cajal Fellow**, FCRB-IDIBAPS, 2024 - Currently employed
   * Leading a research group.
   * Investigating the neural circuits involved in learning.
@@ -84,30 +82,6 @@ Professional experience
   * Led research in muscle development using gene expression interference.
   * Secured personal funding (>120K USD) by achieving a highly competitive grant.
   * Performed bioinformatics analysis of genetic interaccions using graph theory.
-  
-Skills
-======
-
-* Project management
-* Team management
-* Neurobiology
-* Behavioural neuroscience
-* Cell and molecular biology
-* Animal biology (in vivo)
-* Image analysis
-* Microscopy and histology
-* Software development
-* Statistics and data analysis
-* Biomarkers
-* Data visualisation
-* Scientific communication
-* Python
-* ImageJ
-* R Bioconductor
-* Matlab
-* HPC clusters
-* Adobe Illustrator
-* Office
 
 Publications
 ======
@@ -118,7 +92,6 @@ Publications
 
 Relevant presentations
 ======
-
 * Invited talk at the NeuCoME seminar series, Barcelona, 3 April 2025
 * Selected talk at the BARCCSYN meeting, Barcelona, 30-31 May 2024
 * Poster presentation in BioTechX conference, Basel, 4-6 October, 2023
@@ -139,62 +112,8 @@ Relevant presentations
 * Poster presentation in congress Neurobiology of action, ESF-FENS, Stresa 20-24 October 2013
 * Poster presentation at BaMBa, Stanford, 9 November 2010.
 
-Teaching
-======
-
-* Teacher in the Behavioural Module at the SWC PhD course, 2018 - 2021
-* Teacher in the Developmental Biology Module at the EMBL PhD course, 2013 - 2016
-* Teacher in the MAMED course for marine biology, 2015
-
-Supervision
-======
-
-* Main supervisor of Nuo Dong, PhD student, 2025
-* Main supervisor of Eloi Jacomet Cecilia, undergraduate student, 2025
-* Co-supervisor of Quentin Pajot-Moric, rotation PhD student in Stephenson-Jones lab, 2021
-* Co-supervisor of Matthew Wisdom, research assistant in Stephenson-Jones lab, 2020
-* Co-supervisor of Yasmin Meyer, research assistant in Stephenson-Jones lab, 2020
-* Co-supervisor of Laura Schwarz, research assistant in Stephenson-Jones lab, 2019 - 2020
-* Co-supervisor of Ryan Prestil, international summer student in Arendt lab, 2014
-* Co-supervisor of David Puga, master student in Arendt lab, 2013
-
-Relevant additional training
-======
-
-* Leadership and management skills course, CRG Barcelona 2025
-* EMBO laboratory leadership course, virtual 2021
-* Cajal course in computational neuroscience, Lisbon 2017
-* Advanced R programming, Heidelberg 2017
-* Artificial intelligence nanodegree Udacity program, online 2017
-* Biotech entrepreneurship training program, Heidelberg 2016
-* EMBL advanced course in software carpentry, Heidelberg 2014
-* Leadership training SWC pilot program, virtual 2020
-* Leading collaborative projects, online UCL program 2021
-* R debugging & robust programming, Heidelberg 2016
-* Writing and publishing scientific papers EMBL course, Cambridge 2016
-
-Service and leadership
-======
-
-* Mentor through the EMBL-Alumni Mentorship Program from 2026
-* Main organizer of the FENS Satellite “From Neural Circuits to Choices” 2026
-* Main organizer of the BARCCSYN Conference 2026
-* Reviewer for AEI Spanish Research Agency since 2025
-* Co-organizer of the SWC-Gatsby Symposium 2022
-* Postdoc representative in the SWC 2022 - 2023
-* Recommender and reviewer in Peer Community In Neuroscience from 2021
-* Designated trainer for behaviour, surgical prodecures and perfusions, SWC 2019 - 2023
-* Tutor assistant in neuromatch academy 2021
-* Co-organizer of Emerging Neuroscientists Seminar Series, SWC 2020 - 2023
-* Outreach participant in Skype a Scientist program 2021 - 2022
-* Active participant in the Research Culture Working Groups, SWC 2020 - 2023
-* Speaker to Santander Bank high-school student awardees 2016
-* Science Slam speaker, outreach activity, Heidelberg 2015
-* Main co-organizer of the EMBL PhD Symposium 2013
-
 Grants and awards
 ======
-
 * AEI R3-certified Researcher since 2026
 * Ramón y Cajal Fellowship, € 314.350, 2024 - 2029
 * EMBO Long-Term Fellowship, £ 60.000, 2018 - 2020
@@ -222,6 +141,83 @@ Research Projects
 * SC3GM081165: “Molecular Mechanisms Underlying Xenopus Somitogenesis”. NIH NIGMS Grant to Carmen Domingo in San Francisco State University. From 2011 to 2013. $ 464.504,00. Type of participation: undergraduate researcher.
 * ALTF 827-2018: “Dissociation of cell class-specific roles of cortico-striatal circuits during learning and behavior”. European Molecular Biology Organization Long-Term Fellowship, 2018 call to Dr. Hernando Martinez Vergara in University College London. From January 2019 to December 2020. £ 59.824,00. Type of participation: awarded postdoctoral fellow.
 
+Teaching
+======
+* Teacher in the Behavioural Module at the SWC PhD course, 2018 - 2021
+* Teacher in the Developmental Biology Module at the EMBL PhD course, 2013 - 2016
+* Teacher in the MAMED course for marine biology, 2015
+
+Supervision
+======
+* Main supervisor of Lidia Moreno Herrero, undergraduate student, 2026
+* Main supervisor of Nuo Dong, PhD student, 2025
+* Main supervisor of Eloi Jacomet Cecilia, undergraduate student, 2025
+* Co-supervisor of Quentin Pajot-Moric, rotation PhD student in Stephenson-Jones lab, 2021
+* Co-supervisor of Matthew Wisdom, research assistant in Stephenson-Jones lab, 2020
+* Co-supervisor of Yasmin Meyer, research assistant in Stephenson-Jones lab, 2020
+* Co-supervisor of Laura Schwarz, research assistant in Stephenson-Jones lab, 2019 - 2020
+* Co-supervisor of Ryan Prestil, international summer student in Arendt lab, 2014
+* Co-supervisor of David Puga, master student in Arendt lab, 2013
+
+Relevant additional training
+======
+* Leadership and management skills course, CRG Barcelona 2025
+* EMBO laboratory leadership course, virtual 2021
+* Cajal course in computational neuroscience, Lisbon 2017
+* Advanced R programming, Heidelberg 2017
+* Artificial intelligence nanodegree Udacity program, online 2017
+* Biotech entrepreneurship training program, Heidelberg 2016
+* EMBL advanced course in software carpentry, Heidelberg 2014
+* Leadership training SWC pilot program, virtual 2020
+* Leading collaborative projects, online UCL program 2021
+* R debugging & robust programming, Heidelberg 2016
+* Writing and publishing scientific papers EMBL course, Cambridge 2016
+
+Service and leadership
+======
+* Mentor through the EMBL-Alumni Mentorship Program from 2026
+* Main organizer of the FENS Satellite “From Neural Circuits to Choices” 2026
+* Main organizer of the BARCCSYN Conference 2026
+* Reviewer for AEI Spanish Research Agency since 2025
+* Co-organizer of the SWC-Gatsby Symposium 2022
+* Postdoc representative in the SWC 2022 - 2023
+* Recommender and reviewer in Peer Community In Neuroscience from 2021
+* Designated trainer for behaviour, surgical prodecures and perfusions, SWC 2019 - 2023
+* Tutor assistant in neuromatch academy 2021
+* Co-organizer of Emerging Neuroscientists Seminar Series, SWC 2020 - 2023
+* Active participant in the Research Culture Working Groups, SWC 2020 - 2023
+* Main co-organizer of the EMBL PhD Symposium 2013
+
+Outreach activities
+======
+* Speaker at the Growth Lab, Talks and Events series, Barcelona 2026
+* Outreach participant in "Setmana de la Ciencia", Barcelona 2026
+* Outreach participant in Skype a Scientist program 2021 - 2022
+* Speaker to Santander Bank high-school student awardees, Heidelberg 2016
+* Science Slam speaker, outreach activity, Heidelberg 2015
+
+Skills
+======
+* Project management
+* Team management
+* Neurobiology
+* Behavioural neuroscience
+* Cell and molecular biology
+* Animal biology (in vivo)
+* Image analysis
+* Microscopy and histology
+* Software development
+* Statistics and data analysis
+* Biomarkers
+* Data visualisation
+* Scientific communication
+* Python
+* ImageJ
+* R Bioconductor
+* Matlab
+* HPC clusters
+* Adobe Illustrator
+* Office
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
@@ -233,5 +229,6 @@ Research Projects
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+
 
 
