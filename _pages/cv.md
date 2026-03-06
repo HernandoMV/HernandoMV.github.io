@@ -195,6 +195,7 @@ Service and leadership
 Grants and awards
 ======
 
+* AEI R3-certified Researcher since 2026
 * Ramón y Cajal Fellowship, € 314.350, 2024 - 2029
 * EMBO Long-Term Fellowship, £ 60.000, 2018 - 2020
 * EMBO Long-Term Fellowship, Rejected, 2017
@@ -232,4 +233,5 @@ Research Projects
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+
 
