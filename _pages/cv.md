@@ -178,15 +178,19 @@ Service and leadership
 * Mentor through the EMBL-Alumni Mentorship Program from 2026
 * Main organizer of the FENS Satellite “From Neural Circuits to Choices” 2026
 * Main organizer of the BARCCSYN Conference 2026
-* Reviewer for AEI Spanish Research Agency since 2025
 * Co-organizer of the SWC-Gatsby Symposium 2022
 * Postdoc representative in the SWC 2022 - 2023
-* Recommender and reviewer in Peer Community In Neuroscience from 2021
 * Designated trainer for behaviour, surgical prodecures and perfusions, SWC 2019 - 2023
 * Tutor assistant in neuromatch academy 2021
 * Co-organizer of Emerging Neuroscientists Seminar Series, SWC 2020 - 2023
 * Active participant in the Research Culture Working Groups, SWC 2020 - 2023
 * Main co-organizer of the EMBL PhD Symposium 2013
+
+Reviewing and evaluating
+======
+* Grant reviewer for AEI (Spanish Research Agency) and ANR (French National Research Agency). Reviewed 3 grants in the last 2 years
+* Scientific publication reviewer for multiple journals. 3 articles in the last 10 years.
+* Recommender (editor) and reviewer in Peer Community In Neuroscience from 2021. Recommended 2 scientific publications.
 
 Outreach activities
 ======
