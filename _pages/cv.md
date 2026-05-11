@@ -194,6 +194,7 @@ Reviewing and evaluating
 
 Outreach activities
 ======
+* Speaker at the IDIBAPS PhD Day, Barcelona 2026
 * Speaker at the Growth Lab, Talks and Events series, Barcelona 2026
 * Outreach participant in "Setmana de la Ciencia", Barcelona 2026
 * Outreach participant in Skype a Scientist program 2021 - 2022
