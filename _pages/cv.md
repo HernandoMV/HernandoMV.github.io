@@ -175,6 +175,7 @@ Relevant additional training
 
 Service and leadership
 ======
+* Young SENC Ambassador from 2026
 * Mentor through the EMBL-Alumni Mentorship Program from 2026
 * Main organizer of the FENS Satellite “From Neural Circuits to Choices” 2026
 * Main organizer of the BARCCSYN Conference 2026
