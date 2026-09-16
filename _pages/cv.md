@@ -189,8 +189,8 @@ Service and leadership
 
 Reviewing and evaluating
 ======
-* Grant reviewer for AEI (Spanish Research Agency) and ANR (French National Research Agency). Reviewed 3 grants in the last 2 years
-* Scientific publication reviewer for multiple journals. 3 articles in the last 10 years.
+* Grant reviewer for AEI (Spanish Research Agency) and ANR (French National Research Agency). Reviewed 3 grants in the last 2 years.
+* Scientific publication reviewer for multiple journals (Nature, Nature communications, etc). 4 articles in the last 10 years.
 * Recommender (editor) and reviewer in Peer Community In Neuroscience from 2021. Recommended 2 scientific publications.
 
 Outreach activities
