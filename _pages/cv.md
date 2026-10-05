@@ -149,7 +149,8 @@ Teaching
 
 Supervision
 ======
-* Main supervisor of Lidia Moreno Herrero, undergraduate student, 2026
+* Main supervisor of Jule Santandreu Hoffman, undergraduate student, 2026
+* * Main supervisor of Lidia Moreno Herrero, undergraduate student, 2026
 * Main supervisor of Nuo Dong, PhD student, 2025
 * Main supervisor of Eloi Jacomet Cecilia, undergraduate student, 2025
 * Co-supervisor of Quentin Pajot-Moric, rotation PhD student in Stephenson-Jones lab, 2021
